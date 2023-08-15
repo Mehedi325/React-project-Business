@@ -2,7 +2,7 @@
 
 [🔗Live Demo🔗](https://react-project-business.vercel.app/)
 
-![Protfolio Website](public/Business.png)
+![Protfolio Website](public/business.png)
 
 <div align="center">
 
