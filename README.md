@@ -1,4 +1,4 @@
-# React JS Portfolio Website
+# React JS Business Website
 
 [🔗Live Demo🔗](https://react-project-business.vercel.app/)
 
